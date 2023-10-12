@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Congo! on This Ruowen Moment</title>
-    <link>https://graceruowenwang.github.io/</link>
-    <description>Recent content in Welcome to Congo! on This Ruowen Moment</description>
+    <title>写作是为了再次品尝人生 on This Ruowen Moment</title>
+    <link>https://graceruowenwang.github.io/writeinchinese/</link>
+    <description>Recent content in 写作是为了再次品尝人生 on This Ruowen Moment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://graceruowenwang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://graceruowenwang.github.io/writeinchinese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>天才</title>
       <link>https://graceruowenwang.github.io/writeinchinese/2023-09-26/</link>
@@ -14,24 +14,6 @@
       
       <guid>https://graceruowenwang.github.io/writeinchinese/2023-09-26/</guid>
       <description>如果说天才这个词汇比较“危险”，因为也许在世俗角度理解他们有太多的不可理喻，那么不如我们想想“创造力”。</description>
-    </item>
-    
-    <item>
-      <title>My Dear Friend</title>
-      <link>https://graceruowenwang.github.io/blogs/my-poem/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://graceruowenwang.github.io/blogs/my-poem/</guid>
-      <description>My dear friend,</description>
-    </item>
-    
-    <item>
-      <title>Ruowen Wang&#39;s Resume</title>
-      <link>https://graceruowenwang.github.io/resume/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://graceruowenwang.github.io/resume/</guid>
-      <description>Work Experience # Research Associate # The Chinese University of Hong Kong (Shenzhen) # July 2023 - Now # Research work Teaching Assistant Communication, data analysis, teamwork Instructor # Zhuhai College of Science and Technology # August 2022 - July 2023 # Teaching: database, C++, Python Assistant Instructor # Beijing Normal University-Hong Kong Baptist University United International College (UIC) # August 2019 - Feburary 2022 # Teaching Assistant Grade report, coordination, communication Education # Master of Science in Advanced Information Systems # Department of Computer Science, Hong Kong Baptist Unviersity # August 2018 - November 2019 # Machine Learning, Python, Data Analytics Merit Scholarship Bachelor of Business Administration in Information Management and Information Systems.</description>
     </item>
     
     <item>
@@ -107,12 +89,21 @@
     </item>
     
     <item>
-      <title>美好留位</title>
-      <link>https://graceruowenwang.github.io/moments/another-project/</link>
-      <pubDate>Mon, 14 Jun 1993 00:00:00 +0000</pubDate>
+      <title>保持天性，戴上面具</title>
+      <link>https://graceruowenwang.github.io/writeinchinese/external-links/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://graceruowenwang.github.io/moments/another-project/</guid>
-      <description></description>
+      <guid>https://graceruowenwang.github.io/writeinchinese/external-links/</guid>
+      <description>I wrote a post on Wechat..</description>
+    </item>
+    
+    <item>
+      <title>三十而立系列</title>
+      <link>https://graceruowenwang.github.io/writeinchinese/external-link-2/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://graceruowenwang.github.io/writeinchinese/external-link-2/</guid>
+      <description>I wrote a post on Medium.</description>
     </item>
     
   </channel>
